@@ -2,8 +2,8 @@
 ## Hello, Devs! Eu sou a Nina:)
   <div align= "center">
     <h3>Sobre mim</h3>
-    <p> Sou estudante de Engenharia de produção e apaixonada por Design e tecnologia.<br>
-    Tenho conhecimento e experiência em algumas ferramentas de design e CMS e, no último ano, <br>escolhi encarar o universo Dev como meu desafio pessoal!
+    <p> Sou estudante de Sistemas de Informação e sou apaixonada por Design e tecnologia.<br>
+    Tenho conhecimento e experiência em algumas ferramentas de design e, no último ano, <br>me apaixonei pelo universo Dev!
     <h3>Já fiz projetos com</h3>
       <div>
         <img height= "30"src= "https://img.shields.io/badge/Webflow-146EF5.svg?style=for-the-badge&logo=Webflow&logoColor=white">
