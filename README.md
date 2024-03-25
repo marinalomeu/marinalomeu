@@ -1,9 +1,25 @@
 # Marina Lomeu
 ## Hello, Devs! Eu sou a Nina:)
-  <div align= "center">
+<div>
     <h3>Sobre mim</h3>
     <p> Sou estudante de Sistemas de Informação e sou apaixonada por Design e tecnologia.<br>
-    Tenho conhecimento e experiência em algumas ferramentas de design e, no último ano, <br>me apaixonei pelo universo Dev!
+    Tenho conhecimento e experiência em algumas ferramentas de design e, no último ano, <br>me apaixonei pelo universo Dev!  
+      
+  <div>
+  <a href="https://github.com/marinalomeu">
+   <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
+  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=16&theme=dracula"/>  
+</div>    
     <h3>Já fiz projetos com</h3>
       <div>
         <img height= "30"src= "https://img.shields.io/badge/Webflow-146EF5.svg?style=for-the-badge&logo=Webflow&logoColor=white">
@@ -11,7 +27,6 @@
         <img height= "30"src= "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white">
         <img height= "30"src= "https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
         <img height= "30"src= "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
-      </div>
     <h3>Estou me desenvolvendo em</h3>
       <div>
         <img height= "30"src= "https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
