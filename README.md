@@ -16,6 +16,7 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
   <img align="center" alt="Nina-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">		
   <img align="center" alt="Nina-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nina-PHP" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Nina-C#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">  
 </div>
   </div>
 
