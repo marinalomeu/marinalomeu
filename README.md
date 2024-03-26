@@ -6,10 +6,10 @@ me apaixonei pelo universo Dev, iniciando minha jornada no mundinho dos códigos
 > “Do, or do not. There is no “try” — Yoda
 
 
-## 🚀 Desenvolvimento
+## 🚀 Crescimento
 Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como PHP.
     
-## 💻 Minhas Techs
+## 💻 Minhas Techs em desenvolvimento
 <div style="display: inline_block"><br>
   <img align="center" alt="Nina-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nina-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +19,7 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
 </div>
   </div>
 
-## 🎲 Contributions    
+## 🎲 Contribuições    
   <div>
   <a href="https://github.com/marinalomeu">
    <picture>
@@ -31,9 +31,9 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
       srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
   </picture>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=16&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=16&theme=dracula"/>  
 </div>   
       
 ## 🌎 Socials	  
