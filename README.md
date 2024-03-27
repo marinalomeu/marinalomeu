@@ -30,7 +30,7 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
     </picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
     />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
   </picture>
