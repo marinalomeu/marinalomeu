@@ -41,7 +41,7 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
  <div>
      <a href = "mailto:marinablomeu@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href= "https://www.linkedin.com/in/marinalomeu/"> <img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-         <a href= "https://discord.gg/uNaM7yBV" target="_blank"> <img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
+         <a href= "https://discord.gg/marinalomeu" target="_blank"> <img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
      <a href= "https://www.instagram.com/marinalomeu_">
           <img height= "30"src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
         </a>
