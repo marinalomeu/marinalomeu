@@ -7,16 +7,18 @@ me apaixonei pelo universo Dev, iniciando minha jornada no mundinho dos códigos
 
 
 ## 🚀 Crescimento
-Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como PHP.
+Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como PHP, Angular, TypeScript, MySQL e Docker.
     
 ## 💻 Minhas Techs em desenvolvimento
 <div style="display: inline_block"><br>
   <img align="center" alt="Nina-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nina-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nina-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">		
-  <img align="center" alt="Nina-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nina-PHP" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Nina-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">	
+  <img align="center" alt="Nina-Ts" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">	  
+  <img align="center" alt="Nina-Angular" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">  
   <img align="center" alt="Nina-C#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Nina-PHP" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+    
 </div>
   </div>
 
