@@ -7,7 +7,7 @@ me apaixonei pelo universo Dev, iniciando minha jornada no mundinho dos códigos
 
 
 ## 🚀 Crescimento
-Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como JavaScript e Angular.
+Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como JavaScript e AngularJS.
     
 ## 💻 Minhas Techs em desenvolvimento
 <div style="display: inline_block"><br>
