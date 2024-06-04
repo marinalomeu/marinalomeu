@@ -7,9 +7,10 @@ me apaixonei pelo universo Dev, iniciando minha jornada no mundinho dos códigos
 
 
 ## 🚀 Crescimento
-Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como JavaScript e AngularJS.
+Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sistema interno da empresa e aprendendo tecnologias como JavaScript, AngularJS e PHP. 
+Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e Desenvolvimento.
     
-## 💻 Minhas Techs em desenvolvimento
+## 💻 Techs
 <div style="display: inline_block"><br>
   <img align="center" alt="Nina-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nina-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +19,6 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
   <img align="center" alt="Nina-AngularJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
     
 </div>
-  </div>
 
 ## 🎲 Contribuições    
   <div>
@@ -29,18 +29,16 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
       
 ## 🌎 Socials	  
  <div>
-     <a href = "mailto:marinablomeu@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href= "https://www.linkedin.com/in/marinalomeu/"> <img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-         <a href= "https://discord.gg/marinalomeu" target="_blank"> <img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
-     <a href= "https://www.instagram.com/marinalomeu_">
-          <img height= "30"src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-        </a>
-      </div>
+    <a href = "mailto:marinablomeu@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href= "https://www.linkedin.com/in/marinalomeu/"><img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+    <a href= "https://discord.gg/marinalomeu" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
+    <a href= "https://www.instagram.com/marinalomeu_"><img height= "30"src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
       
 ## 🎧 Para focar
-<a href = "https://open.spotify.com/user/wi5lntndt5f8k6c0wxxndr1kt"><img height="30" src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>
-      
-  </div> 
+<div>
+    <a href = "https://open.spotify.com/user/wi5lntndt5f8k6c0wxxndr1kt"><img height="30" src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white"></a>      
+</div> 
 
 
     
