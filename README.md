@@ -23,18 +23,8 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
 ## 🎲 Contribuições    
   <div>
   <a href="https://github.com/marinalomeu">
-   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=dracula"
-      media="(prefers-color-scheme: dark)"
-    </picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
-  </picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=16&theme=dracula"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>   
       
 ## 🌎 Socials	  
