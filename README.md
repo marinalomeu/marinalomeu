@@ -37,7 +37,6 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     <img align="center" alt="Nina-MUI" height="30" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white">
     <img align="center" alt="Nina-React" height="30" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
     <img align="center" alt="Nina-TS" height="30" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img align="center" alt="Nina-MySQL" height="30" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 
 </div>
       
