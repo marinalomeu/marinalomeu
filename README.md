@@ -12,12 +12,11 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     
 ## 💻 Techs
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nina-HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nina-CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nina-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">	 
-  <img align="center" alt="Nina-AngularJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">  
-  <img align="center" alt="Nina-AngularJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    
+  <img align="center" alt="Nina-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img align="center" alt="Nina-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img align="center" alt="Nina-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">	 
+  <img align="center" alt="Nina-AngularJS" height="30" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white">  
+  <img align="center" alt="Nina-PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white">
 </div>
 
 ## 🎲 Contribuições    
@@ -33,15 +32,20 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     </picture>
 </div>   
 
+## 📚 Em desenvolvimento
+<div>
+    <img align="center" alt="Nina-MUI" height="30" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white">
+    <img align="center" alt="Nina-React" height="30" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+    <img align="center" alt="Nina-TS" height="30" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img align="center" alt="Nina-MySQL" height="30" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 
-
+</div>
       
 ## 🌎 Socials	  
  <div>
     <a href = "mailto:marinablomeu@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href= "https://www.linkedin.com/in/marinalomeu/"><img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
     <a href= "https://discord.gg/marinalomeu" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
-    <a href= "https://www.instagram.com/marinalomeu_"><img height= "30"src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
       
 ## 🎧 Para focar
