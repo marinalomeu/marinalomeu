@@ -22,10 +22,19 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
 
 ## 🎲 Contribuições    
   <div>
-  <a href="https://github.com/marinalomeu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/marinalomeu">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=7&theme=tokyonight"/>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
+    </picture>
 </div>   
+
+
+
       
 ## 🌎 Socials	  
  <div>
