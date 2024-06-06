@@ -11,7 +11,7 @@ Atualmente sou estagiária na Meu Dinheiro Web onde me desenvolvo atuando no sis
 Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e Desenvolvimento.
     
 ## 💻 Techs
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Nina-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
   <img align="center" alt="Nina-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img align="center" alt="Nina-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">	 
