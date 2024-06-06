@@ -28,7 +28,7 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
         srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight"
         media="(prefers-color-scheme: dark)"
       />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight" />
     </picture>
 </div>   
 
