@@ -32,15 +32,16 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     </picture>
 </div>   
 
+
 ## 📚 Em desenvolvimento
 <div>
-    <img align="center" alt="Nina-MUI" height="30" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white">
+<!--     <img align="center" alt="Nina-MUI" height="30" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white"> -->
+    <img align="center" alt="Nina-Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
     <img align="center" alt="Nina-React" height="30" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+<!--     <img align="center" alt="Nina-Vue.js" height="30" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"> -->
     <img align="center" alt="Nina-TS" height="30" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img align="center" alt="Nina-Py" height="30" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-    
-
 </div>
+
       
 ## 🌎 Socials	  
  <div>
