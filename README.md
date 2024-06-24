@@ -33,7 +33,7 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
 </div>   
 
 
-## 📚 Em desenvolvimento
+## 📚 Próximos passos
 <div>
 <!--     <img align="center" alt="Nina-MUI" height="30" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white"> -->
     <img align="center" alt="Nina-Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
