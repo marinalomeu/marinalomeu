@@ -50,27 +50,3 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     <a href= "https://discord.gg/marinalomeu" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div>
 
-![snake gif](https://github.com/marinalomeu/marinalomeu/blob/main/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-          
-
-
-<!--
-**marinalomeu/marinalomeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
