@@ -32,8 +32,7 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     </picture>
 </div>   
 
-<details>
-<summary><h4>My Projects </h4></summary>
+<details><summary><h4>My Projects </h4></summary>
     <div>
         <p align="left">
             <a href="https://github.com/marinalomeu/marinalomeu">
