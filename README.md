@@ -24,34 +24,34 @@ Faço parte da Diretoria de ensino e do time de Desenvolvimento do Site da Liga.
 ## 🎲 Contribuições    
   <div>
     <a href="https://github.com/marinalomeu">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalomeu&layout=compact&langs_count=7&theme=tokyonight"/>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight"
         media="(prefers-color-scheme: dark)"
       />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight" />
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marinalomeu&show_icons=true&theme=tokyonight" />
     </picture>
 </div>   
 
-<div align="left">
-    <img height="238em" src="https://github-readme-activity-graph.vercel.app/graph?username=marinalomeu&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=false" radius="40">
+<div align="left" >
+    <img width="700em" src="https://github-readme-activity-graph.vercel.app/graph?username=marinalomeu&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=false" radius="40">
 </div>
 
-<details><summary><h4>My Projects </h4></summary>
-    <div>
+<details><summary><h2>Principais projetos</h2></summary>
+    <div width="">
         <p align="left">
             <a href="https://github.com/marinalomeu/HeroesGallery">
-                <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=HeroesGallery&theme=tokyonight" alt="GitHub Stats" />
+                <img width="348em" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=HeroesGallery&theme=tokyonight" alt="GitHub Stats" />
             </a>
             <a href="https://github.com/marinalomeu/portfolio">
-                <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=portfolio&theme=tokyonight" alt="GitHub Stats" />
+                <img width="348em" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=portfolio&theme=tokyonight" alt="GitHub Stats" />
             </a>
              <a href="https://github.com/marinalomeu/starWarsProject">
-                <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=starWarsProject&theme=tokyonight" alt="GitHub Stats" />
+                <img width="348em" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=starWarsProject&theme=tokyonight" alt="GitHub Stats" />
             </a>
             <a href="https://github.com/marinalomeu/nasaProject">
-                <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=nasaProject&theme=tokyonight" alt="GitHub Stats" />
+                <img width="348em" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=nasaProject&theme=tokyonight" alt="GitHub Stats" />
             </a>
         </p>
     </div>
@@ -74,9 +74,4 @@ Faço parte da Diretoria de ensino e do time de Desenvolvimento do Site da Liga.
     <a href= "https://www.linkedin.com/in/marinalomeu/"><img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
     <a href= "https://discord.gg/marinalomeu" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div>
-
-
-<!--
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=marinalomeu&theme=tokyonight&hide_border=true&area=true)
--->
 
