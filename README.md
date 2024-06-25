@@ -32,6 +32,10 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     </picture>
 </div>   
 
+<div align="left">
+    <img height="238em" src="https://github-readme-activity-graph.vercel.app/graph?username=marinalomeu&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=false" radius="40">
+</div>
+
 <details><summary><h4>My Projects </h4></summary>
     <div>
         <p align="left">
@@ -65,6 +69,7 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     <a href= "https://www.linkedin.com/in/marinalomeu/"><img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
     <a href= "https://discord.gg/marinalomeu" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div>
+
 
 <!--
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=marinalomeu&theme=tokyonight&hide_border=true&area=true)
