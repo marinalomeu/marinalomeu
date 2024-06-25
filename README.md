@@ -1,6 +1,6 @@
 
 # Hello, Devs! Eu sou a Nina :)
-Sou estudante de Sistemas de Informação e sou apaixonada por Design e tecnologia.<br>
+Estudo Sistemas de Informação e sou apaixonada por Design e tecnologia.<br>
 Tenho conhecimento e experiência em algumas ferramentas de design e, no último ano, <br>
 me apaixonei pelo universo Dev, iniciando minha jornada no mundinho dos códigos!  
 > “Do, or do not. There is no “try” — Yoda
