@@ -46,13 +46,6 @@ Faço parte da Diretoria de ensino e do time de Desenvolvimento do Site da Liga.
             </a>
             <a href="https://github.com/marinalomeu/portfolio">
                 <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=portfolio&theme=tokyonight" alt="GitHub Stats" />
-            </a>
-            <a href="https://github.com/marinalomeu/starWarsProject">
-                <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=starWarsProject&theme=tokyonight" alt="GitHub Stats" />
-            </a>
-            <a href="https://github.com/marinalomeu/nasaProject">
-                <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=marinalomeu&repo=nasaProject&theme=tokyonight" alt="GitHub Stats" />
-            </a>
         </p>
     </div>
 </details>
