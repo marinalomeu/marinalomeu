@@ -49,8 +49,6 @@ Participo da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e 
     <a href= "https://www.linkedin.com/in/marinalomeu/"><img height= "30"src= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
     <a href= "https://discord.gg/marinalomeu" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
 </div>
-      
-![Snake animation](https://github.com/marinalomeu/mmarinalomeu/dist/github-contribution-grid-snake.svg)
 
 
     
