@@ -58,7 +58,7 @@ Faço parte da Diretoria de ensino e do time de Desenvolvimento do Site da Liga.
 </details>
 
 
-## 📚 Próximos passos
+## 📚 Estudando
 <div>
 <!--     <img align="center" alt="Nina-MUI" height="25" src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white"> -->
     <img align="center" alt="Nina-Bootstrap" height="25" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white">
