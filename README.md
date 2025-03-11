@@ -1,16 +1,14 @@
 
 # Hello, Devs! Eu sou a Nina :)
-Estudo Sistemas de Informação e sou apaixonada por Design e tecnologia.<br>
-Tenho conhecimento e experiência em algumas ferramentas de design e, no último ano, <br>
+Estudo Sistemas de Informação e sou apaixonada por Design.<br>
+Tenho conhecimento e experiência em algumas ferramentas de design e, em 2022, <br>
 me apaixonei pelo universo Dev, iniciando minha jornada no mundinho dos códigos!  
 > “Do, or do not. There is no “try” — Yoda
 
 
 ## 🚀 Crescimento
-Atualmente sou estagiária na Meu Dinheiro Web onde atuo no sistema interno da empresa <br>
-e me desenvolvo cada vez mais em tecnologias como JavaScript, AngularJS e PHP. <br>
-Sou membro da Liga Feminina de TI da UVV onde desenvolvemos projetos de Design e Tech. <br> 
-Faço parte da Diretoria de ensino e do time de Desenvolvimento do Site da Liga. <br>
+Fiz um breve estágio como dev em tecnologias como JavaScript, AngularJS e PHP. <br>
+Hoje mantenho as atividades apenas como hobby e desafios pessoais :)
     
 ## 💻 Techs
 <div style="display: inline_block">
